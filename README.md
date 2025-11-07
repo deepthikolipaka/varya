@@ -32,15 +32,4 @@ Parser: Tree-sitter (Python grammar)
 Database (future): MongoDB
 Hosting (dev): Render / Vercel
 
-🧱 Project Structure
-vayra/
-├── client/           # React frontend
-│   ├── src/
-│   ├── components/
-│   └── pages/
-├── server/           # Express backend
-│   ├── routes/
-│   ├── utils/
-│   └── index.js
-├── uploads/          # Temporary upload folder
-└── README.md
+
